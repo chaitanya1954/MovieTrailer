@@ -1,5 +1,5 @@
 # MovieTrailer
-The Movie Trailer plays the movie trailers from Youtube.
+The Entertainment.py plays the movie trailers from Youtube.
 
 
 
