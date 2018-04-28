@@ -1,5 +1,6 @@
 # MovieTrailer
-The Movie Trailer plays the movie video trailers from Youtube.
+The Movie Trailer plays the movie trailers from Youtube.
+
 
 
 
